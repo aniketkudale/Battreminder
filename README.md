@@ -13,6 +13,11 @@ This light-weight minimal browser extension will let you know the battery level 
 ## Bugs/Issues
 You can submit your bugs or issues [here][github-issues]
 
+## Notification Sound
+This sound is licensed under the Creative Commons Attribution license.
+
+https://notificationsounds.com/notification-sounds/coins-497
+
 ## License
 MIT © 2018 Aniket Kudale
 
