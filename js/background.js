@@ -1,5 +1,5 @@
 function reminder(info) {
-    let level = info.level * 100;
+    let level = Math.floor(info.level * 100);
     chrome.browserAction.setBadgeBackgroundColor({color: "#112339"});
     chrome.browserAction.setBadgeText({text: '' + level + '%'});
     if (info.level == 0.99 && info.charging == true) {

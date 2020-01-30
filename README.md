@@ -19,7 +19,7 @@ This sound is licensed under the Creative Commons Attribution license.
 https://notificationsounds.com/notification-sounds/coins-497
 
 ## License
-MIT © 2018 Aniket Kudale
+MIT © 2020 Aniket Kudale
 
  [chrome-store]: https://chrome.google.com/webstore/detail/battreminder/eolgelhflgphiebnjopklpnplinmemfi
  [github-issues]: https://github.com/aniketkudale/battreminder/issues
